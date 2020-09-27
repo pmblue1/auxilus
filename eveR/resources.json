@@ -1,0 +1,208 @@
+{
+  "planet_count": 38298,
+  "resource_count": 147936,
+  "Base Metals": {
+    "amt": 13902,
+    "output": 5.375,
+    "dev": 1.716906919867647,
+    "alias": "BM"
+  },
+  "Condensates": {
+    "amt": 2983,
+    "output": 18.065,
+    "dev": 4.0562638283607155,
+    "alias": "Condensate"
+  },
+  "Heavy Water": {
+    "amt": 3210,
+    "output": 245.92,
+    "dev": 69.55420560747658,
+    "alias": "HW"
+  },
+  "Fiber Composite": {
+    "amt": 5655,
+    "output": 26.743,
+    "dev": 6.0310162687886875,
+    "alias": "FC"
+  },
+  "Smartfab Units": {
+    "amt": 2055,
+    "output": 18.801,
+    "dev": 4.671834063260347,
+    "alias": "SU"
+  },
+  "Lustering Alloy": {
+    "amt": 12495,
+    "output": 19.508,
+    "dev": 6.055626890756271,
+    "alias": "LA"
+  },
+  "Toxic Metals": {
+    "amt": 3886,
+    "output": 5.9,
+    "dev": 1.3824446731858009,
+    "alias": "TM"
+  },
+  "Coolant": {
+    "amt": 5263,
+    "output": 17.177,
+    "dev": 3.8408673760212806,
+    "alias": "C"
+  },
+  "Noble Gas": {
+    "amt": 6866,
+    "output": 24.791,
+    "dev": 5.5389924264491635,
+    "alias": "NG"
+  },
+  "Opulent Compound": {
+    "amt": 1969,
+    "output": 28.545,
+    "dev": 6.894761300152356,
+    "alias": "OC"
+  },
+  "Silicate Glass": {
+    "amt": 3049,
+    "output": 10.72,
+    "dev": 2.3972974745818285,
+    "alias": "SG"
+  },
+  "Motley Compound": {
+    "amt": 1807,
+    "output": 22.178,
+    "dev": 5.997306032097398,
+    "alias": "MC"
+  },
+  "Heavy Metals": {
+    "amt": 1337,
+    "output": 26.424,
+    "dev": 5.877256544502619,
+    "alias": "HM"
+  },
+  "Reactive Gas": {
+    "amt": 9306,
+    "output": 26.743,
+    "dev": 5.644510208467653,
+    "alias": "RG"
+  },
+  "Noble Metals": {
+    "amt": 2659,
+    "output": 27.982,
+    "dev": 6.8862610003760745,
+    "alias": "NM"
+  },
+  "Condensed Alloy": {
+    "amt": 2275,
+    "output": 29.659,
+    "dev": 7.359444835164848,
+    "alias": "CA"
+  },
+  "Sheen Compound": {
+    "amt": 4124,
+    "output": 26.178,
+    "dev": 5.760502424830272,
+    "alias": "SC"
+  },
+  "Supertensile Plastics": {
+    "amt": 7189,
+    "output": 13.96,
+    "dev": 2.769972179719007,
+    "alias": "Supertensile Plastic"
+  },
+  "Suspended Plasma": {
+    "amt": 2290,
+    "output": 80.836,
+    "dev": 21.266018340611318,
+    "alias": "SP"
+  },
+  "Industrial Fibers": {
+    "amt": 5881,
+    "output": 5.641,
+    "dev": 1.5163609930283921,
+    "alias": "IF"
+  },
+  "Lucent Compound": {
+    "amt": 1117,
+    "output": 26.308,
+    "dev": 6.0248558639212115,
+    "alias": "LC"
+  },
+  "Liquid Ozone": {
+    "amt": 3987,
+    "output": 35.711,
+    "dev": 7.826296714321494,
+    "alias": "LO"
+  },
+  "Polyaramids": {
+    "amt": 5152,
+    "output": 17.765,
+    "dev": 4.02576863354038,
+    "alias": "Polyaramid"
+  },
+  "Construction Blocks": {
+    "amt": 4398,
+    "output": 22.291,
+    "dev": 5.075758981355155,
+    "alias": "CB"
+  },
+  "Reactive Metals": {
+    "amt": 5894,
+    "output": 6.908,
+    "dev": 1.4505659993213462,
+    "alias": "RM"
+  },
+  "Plasmoids": {
+    "amt": 3408,
+    "output": 1.317,
+    "dev": 0.3021179577464805,
+    "alias": "P"
+  },
+  "Gleaming Alloy": {
+    "amt": 2807,
+    "output": 26.375,
+    "dev": 5.511658354114698,
+    "alias": "GA"
+  },
+  "Crystal Compound": {
+    "amt": 1631,
+    "output": 27.486,
+    "dev": 6.309961986511345,
+    "alias": "CC"
+  },
+  "Glossy Compound": {
+    "amt": 4917,
+    "output": 26.773,
+    "dev": 5.865965222696777,
+    "alias": "GC"
+  },
+  "Ionic Solutions": {
+    "amt": 4729,
+    "output": 10.617,
+    "dev": 2.3641308944808634,
+    "alias": "IS"
+  },
+  "Dark Compound": {
+    "amt": 3609,
+    "output": 21.902,
+    "dev": 4.68409753394292,
+    "alias": "DC"
+  },
+  "Precious Alloy": {
+    "amt": 3056,
+    "output": 21.374,
+    "dev": 4.579450916230374,
+    "alias": "PA"
+  },
+  "Oxygen Isotopes": {
+    "amt": 3821,
+    "output": 3.373,
+    "dev": 0.7871748233446753,
+    "alias": "OI"
+  },
+  "Nanites": {
+    "amt": 1209,
+    "output": 6.84,
+    "dev": 1.492977667493796,
+    "alias": "N"
+  }
+}

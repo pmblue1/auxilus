@@ -1,0 +1,3302 @@
+{
+  "Kisana": [
+    "San Matar",
+    "Semou",
+    "Ryra",
+    "Sasen"
+  ],
+  "San Matar": [
+    "Kisana",
+    "Mossas",
+    "Oraron",
+    "Ortner",
+    "Hevaka",
+    "Kalangin",
+    "Mekashtad",
+    "Orshed"
+  ],
+  "Mossas": [
+    "San Matar",
+    "Subi"
+  ],
+  "Oraron": [
+    "San Matar",
+    "Bedaleya",
+    "Subi"
+  ],
+  "Ortner": [
+    "San Matar",
+    "Hevaka",
+    "Osta",
+    "Hed",
+    "Huvilma",
+    "Odengsolf",
+    "Gedur"
+  ],
+  "Hevaka": [
+    "San Matar",
+    "Joas",
+    "Ortner"
+  ],
+  "Kalangin": [
+    "San Matar",
+    "Mekashtad",
+    "Joas"
+  ],
+  "Mekashtad": [
+    "San Matar",
+    "Kalangin",
+    "Mal",
+    "Joas"
+  ],
+  "Orshed": [
+    "San Matar"
+  ],
+  "Sazdih": [
+    "Anares",
+    "Mal"
+  ],
+  "Anares": [
+    "Sazdih",
+    "Bedaleya",
+    "Aguh",
+    "Mal",
+    "Mamouna",
+    "Ananah",
+    "Heaven"
+  ],
+  "Bedaleya": [
+    "Anares",
+    "Oraron",
+    "Kabo",
+    "G2E-RJ"
+  ],
+  "Aguh": [
+    "Anares"
+  ],
+  "Mal": [
+    "Anares",
+    "Sazdih",
+    "Mekashtad"
+  ],
+  "Mamouna": [
+    "Anares"
+  ],
+  "Ananah": [
+    "Anares",
+    "Subi"
+  ],
+  "Heaven": [
+    "Anares",
+    "Sound",
+    "EM-L3K"
+  ],
+  "Joas": [
+    "Kalangin",
+    "Hevaka",
+    "Mekashtad",
+    "Tartatven",
+    "Q-PVMK"
+  ],
+  "Subi": [
+    "Ananah",
+    "Mossas",
+    "Oraron"
+  ],
+  "Kabo": [
+    "Bedaleya",
+    "Daredan",
+    "Abthi"
+  ],
+  "G2E-RJ": [
+    "Bedaleya",
+    "T-HHHT",
+    "XV7L-S",
+    "AZBG-H",
+    "I9B-8X",
+    "5-88B9"
+  ],
+  "Tartatven": [
+    "Joas",
+    "Fittakan",
+    "Elfrard"
+  ],
+  "Q-PVMK": [
+    "Joas",
+    "730-KH",
+    "BB8E-G"
+  ],
+  "Kimotoro": [
+    "Ruomo",
+    "Anttanen",
+    "Ihilakken",
+    "Suon",
+    "Tasen",
+    "Outartoh",
+    "Koichi",
+    "Okela",
+    "Gallente Border Zone",
+    "Onirvura",
+    "Sela",
+    "Arekin"
+  ],
+  "Ruomo": [
+    "Kimotoro"
+  ],
+  "Suon": [
+    "Anttanen",
+    "Kimotoro",
+    "Uusasai",
+    "Yekti",
+    "Tasen"
+  ],
+  "Anttanen": [
+    "Suon",
+    "Kimotoro",
+    "Stadakorn",
+    "Okomon",
+    "Onirvura"
+  ],
+  "Stadakorn": [
+    "Anttanen",
+    "Gedur",
+    "Brazinget"
+  ],
+  "Okomon": [
+    "Anttanen",
+    "Otsabaira",
+    "Ihatalo"
+  ],
+  "Onirvura": [
+    "Anttanen",
+    "Kimotoro",
+    "Okkelen",
+    "Aulari"
+  ],
+  "Ihilakken": [
+    "Kimotoro",
+    "Okela"
+  ],
+  "Okela": [
+    "Ihilakken",
+    "Kimotoro",
+    "Koichi",
+    "Makiriemi",
+    "Kainokai",
+    "Karnola",
+    "Isoma",
+    "Uusasai",
+    "Sela",
+    "Arekin"
+  ],
+  "Tasen": [
+    "Kimotoro",
+    "Kantanen",
+    "Uusasai",
+    "Suon"
+  ],
+  "Outartoh": [
+    "Kimotoro",
+    "Arekin"
+  ],
+  "Koichi": [
+    "Kimotoro",
+    "Okela",
+    "Makiriemi",
+    "Sela",
+    "Karnola",
+    "Arekin",
+    "Kaala",
+    "Mito"
+  ],
+  "Gallente Border Zone": [
+    "Kimotoro",
+    "Lolbrerie"
+  ],
+  "Sela": [
+    "Kimotoro",
+    "Okunda",
+    "Koichi",
+    "Okela",
+    "Makiriemi"
+  ],
+  "Arekin": [
+    "Kimotoro",
+    "Koichi",
+    "Okela",
+    "Kaala",
+    "Makiriemi",
+    "Imurukka",
+    "Nagaslaiken",
+    "Outartoh",
+    "Santenpaa"
+  ],
+  "Otsabaira": [
+    "Okomon",
+    "Etsala"
+  ],
+  "Ihatalo": [
+    "Okomon",
+    "Aulari",
+    "Mivora"
+  ],
+  "Okkelen": [
+    "Onirvura",
+    "Etsala"
+  ],
+  "Aulari": [
+    "Onirvura",
+    "Ihatalo",
+    "IPS-QB"
+  ],
+  "Mivora": [
+    "Ihatalo",
+    "Anidaza",
+    "Inkelm",
+    "Aldodan",
+    "F-ZNNG"
+  ],
+  "Etsala": [
+    "Okkelen",
+    "Otsabaira",
+    "Orpana"
+  ],
+  "IPS-QB": [
+    "Aulari",
+    "N-K4Q0"
+  ],
+  "Orpana": [
+    "Etsala",
+    "Z-DO53",
+    "Mito"
+  ],
+  "Anidaza": [
+    "Mivora",
+    "Arvachah"
+  ],
+  "Inkelm": [
+    "Mivora",
+    "Akimamur",
+    "Meinigefur",
+    "Ergruk"
+  ],
+  "Aldodan": [
+    "Mivora",
+    "Barvigrard",
+    "Evannater",
+    "Angils",
+    "Jeon"
+  ],
+  "F-ZNNG": [
+    "Mivora",
+    "A3-T8B",
+    "UBPU-9",
+    "Rollera"
+  ],
+  "Z-DO53": [
+    "Orpana",
+    "BUG6-X",
+    "DMXN-3",
+    "I89-EP",
+    "LLAP-1",
+    "YUT3-U"
+  ],
+  "Mito": [
+    "Orpana",
+    "1P-VL2",
+    "Koichi",
+    "Kaala"
+  ],
+  "I89-EP": [
+    "U29-0S",
+    "5YHF-H",
+    "Z-DO53"
+  ],
+  "U29-0S": [
+    "I89-EP",
+    "OSJ7-I",
+    "DILJ-7",
+    "UK-MI6"
+  ],
+  "OSJ7-I": [
+    "U29-0S",
+    "YDS0-Y",
+    "N-K4Q0",
+    "A3-T8B",
+    "0-8MWQ"
+  ],
+  "DILJ-7": [
+    "U29-0S",
+    "0-8MWQ"
+  ],
+  "UK-MI6": [
+    "U29-0S"
+  ],
+  "BUG6-X": [
+    "Z-DO53"
+  ],
+  "YDS0-Y": [
+    "OSJ7-I"
+  ],
+  "N-K4Q0": [
+    "OSJ7-I",
+    "ZYL-FT",
+    "UBPU-9",
+    "IPS-QB",
+    "8K-CHA"
+  ],
+  "A3-T8B": [
+    "OSJ7-I",
+    "88G-M4",
+    "F-ZNNG"
+  ],
+  "0-8MWQ": [
+    "OSJ7-I",
+    "DILJ-7",
+    "E-8CSQ"
+  ],
+  "DMXN-3": [
+    "Z-DO53"
+  ],
+  "5YHF-H": [
+    "I89-EP",
+    "F-V9QW",
+    "52-JKU"
+  ],
+  "LLAP-1": [
+    "Z-DO53",
+    "1P-VL2",
+    "X-VN63",
+    "52-JKU",
+    "E3-NLE"
+  ],
+  "YUT3-U": [
+    "Z-DO53"
+  ],
+  "F-V9QW": [
+    "5YHF-H",
+    "W-XBGF"
+  ],
+  "52-JKU": [
+    "5YHF-H",
+    "LLAP-1",
+    "W-XBGF",
+    "N32Z-Z"
+  ],
+  "88G-M4": [
+    "A3-T8B",
+    "E-8CSQ"
+  ],
+  "E-8CSQ": [
+    "0-8MWQ",
+    "W-XBGF",
+    "9KX-M0",
+    "88G-M4"
+  ],
+  "W-XBGF": [
+    "F-V9QW",
+    "E-8CSQ",
+    "52-JKU",
+    "0HD-6C"
+  ],
+  "9KX-M0": [
+    "E-8CSQ",
+    "V1G-63"
+  ],
+  "V1G-63": [
+    "9KX-M0",
+    "8K-CHA"
+  ],
+  "5F8-PZ": [
+    "GJH-1C",
+    "RFQ-8Y",
+    "AC-RON",
+    "UR-HG4",
+    "PR-ACX"
+  ],
+  "GJH-1C": [
+    "5F8-PZ",
+    "4-QV2L"
+  ],
+  "4-QV2L": [
+    "GJH-1C",
+    "RF9-ZU",
+    "R-M719"
+  ],
+  "RFQ-8Y": [
+    "5F8-PZ",
+    "5P4-QA",
+    "D-95MV",
+    "R-CL2W"
+  ],
+  "5P4-QA": [
+    "RFQ-8Y",
+    "ZPI-2E"
+  ],
+  "D-95MV": [
+    "RFQ-8Y",
+    "MZ-PA2",
+    "4SRW-B",
+    "NZU8-G"
+  ],
+  "R-CL2W": [
+    "RFQ-8Y",
+    "3R-BJL",
+    "NZU8-G",
+    "FD-7Y4"
+  ],
+  "1RG-GU": [
+    "MZ-PA2",
+    "T875-C",
+    "4SRW-B",
+    "HOV-VI"
+  ],
+  "MZ-PA2": [
+    "1RG-GU",
+    "R-M719",
+    "D-95MV"
+  ],
+  "R-M719": [
+    "MZ-PA2",
+    "J-9M7D",
+    "51ZT-6",
+    "4-QV2L"
+  ],
+  "AC-RON": [
+    "5F8-PZ",
+    "0FC-ZX",
+    "QA-P7J",
+    "8-4EFQ"
+  ],
+  "UR-HG4": [
+    "5F8-PZ",
+    "8-4EFQ",
+    "QA-P7J",
+    "0-YMZM",
+    "0EA3-8"
+  ],
+  "PR-ACX": [
+    "5F8-PZ",
+    "T875-C"
+  ],
+  "T875-C": [
+    "PR-ACX",
+    "1RG-GU"
+  ],
+  "ZPI-2E": [
+    "5P4-QA",
+    "W-3E44",
+    "3R-BJL"
+  ],
+  "4SRW-B": [
+    "1RG-GU",
+    "D-95MV",
+    "IJE6-J"
+  ],
+  "HOV-VI": [
+    "1RG-GU",
+    "EL8Z-M"
+  ],
+  "W-3E44": [
+    "ZPI-2E",
+    "BZZ-1U",
+    "RL36-K"
+  ],
+  "3R-BJL": [
+    "ZPI-2E",
+    "R-CL2W"
+  ],
+  "NZU8-G": [
+    "D-95MV",
+    "R-CL2W"
+  ],
+  "IJE6-J": [
+    "4SRW-B",
+    "YENX-U",
+    "BZZ-1U"
+  ],
+  "EL8Z-M": [
+    "HOV-VI",
+    "K-N3MD",
+    "CL-QB2",
+    "WTE-CK"
+  ],
+  "0FC-ZX": [
+    "AC-RON",
+    "DJ-XCW",
+    "760-9C"
+  ],
+  "DJ-XCW": [
+    "0FC-ZX",
+    "QA-P7J",
+    "3GK-WS",
+    "GU-JZ1",
+    "ENP-SH",
+    "760-9C"
+  ],
+  "760-9C": [
+    "0FC-ZX",
+    "DJ-XCW",
+    "3GK-WS"
+  ],
+  "QA-P7J": [
+    "AC-RON",
+    "DJ-XCW",
+    "DITJ-X",
+    "UR-HG4",
+    "0YMH-Q",
+    "N5V-Y0"
+  ],
+  "8-4EFQ": [
+    "AC-RON",
+    "VS-8P0",
+    "IV-LWJ",
+    "U-EUG7",
+    "E-95ID",
+    "UR-HG4",
+    "Z-ONUI"
+  ],
+  "3GK-WS": [
+    "RF9-ZU",
+    "DJ-XCW",
+    "5Y1E-3",
+    "760-9C",
+    "ENP-SH"
+  ],
+  "RF9-ZU": [
+    "3GK-WS",
+    "4-QV2L"
+  ],
+  "GU-JZ1": [
+    "DJ-XCW",
+    "5ZR-29"
+  ],
+  "ENP-SH": [
+    "DJ-XCW",
+    "3GK-WS",
+    "4YFT-F",
+    "CN5-F2",
+    "02QH-A",
+    "0EA3-8",
+    "DITJ-X",
+    "WQZ8-4"
+  ],
+  "5Y1E-3": [
+    "3GK-WS",
+    "DITJ-X"
+  ],
+  "5ZR-29": [
+    "GU-JZ1",
+    "51ZT-6",
+    "CN5-F2"
+  ],
+  "51ZT-6": [
+    "5ZR-29",
+    "R-M719",
+    "4YFT-F",
+    "Elysium",
+    "Tranquility",
+    "Rapture",
+    "YCM-AI",
+    "QI1M-Q"
+  ],
+  "CN5-F2": [
+    "5ZR-29",
+    "4YFT-F",
+    "ENP-SH"
+  ],
+  "J-9M7D": [
+    "R-M719"
+  ],
+  "DITJ-X": [
+    "5Y1E-3",
+    "ENP-SH",
+    "QA-P7J"
+  ],
+  "VS-8P0": [
+    "BVA-YH",
+    "V2S-RH",
+    "8-4EFQ"
+  ],
+  "BVA-YH": [
+    "VS-8P0",
+    "5HN-S5",
+    "Y-JSM8"
+  ],
+  "5HN-S5": [
+    "BVA-YH",
+    "Y-JSM8",
+    "I3-2J0"
+  ],
+  "Y-JSM8": [
+    "BVA-YH",
+    "5HN-S5",
+    "VSC-W9"
+  ],
+  "V2S-RH": [
+    "VS-8P0",
+    "FQ-COP",
+    "Z-ONUI",
+    "FD-7Y4"
+  ],
+  "I3-2J0": [
+    "5HN-S5",
+    "L-TEVM",
+    "Hulf",
+    "KR-XF4"
+  ],
+  "VSC-W9": [
+    "Y-JSM8",
+    "MRC-29",
+    "FQ-COP"
+  ],
+  "MRC-29": [
+    "VSC-W9"
+  ],
+  "FQ-COP": [
+    "VSC-W9",
+    "V2S-RH"
+  ],
+  "4YFT-F": [
+    "51ZT-6",
+    "V-LQBF",
+    "IYOO-M",
+    "P-I9PF",
+    "ENP-SH",
+    "CN5-F2",
+    "7VJ-7M"
+  ],
+  "Elysium": [
+    "51ZT-6",
+    "Y-M7ML",
+    "V-LQBF",
+    "Paradise",
+    "Sound",
+    "Hale",
+    "Rapture"
+  ],
+  "Tranquility": [
+    "51ZT-6",
+    "Rapture"
+  ],
+  "Rapture": [
+    "51ZT-6",
+    "Tranquility",
+    "Elysium"
+  ],
+  "YCM-AI": [
+    "51ZT-6",
+    "Y-M7ML",
+    "7VJ-7M"
+  ],
+  "QI1M-Q": [
+    "51ZT-6"
+  ],
+  "V-LQBF": [
+    "4YFT-F",
+    "730-KH",
+    "K-DLD2",
+    "T-W4L3",
+    "W-3Y6D",
+    "Elysium"
+  ],
+  "IYOO-M": [
+    "4YFT-F",
+    "U-3HAO",
+    "K-DLD2"
+  ],
+  "P-I9PF": [
+    "4YFT-F"
+  ],
+  "7VJ-7M": [
+    "4YFT-F",
+    "YCM-AI"
+  ],
+  "02QH-A": [
+    "ENP-SH",
+    "L-TEVM",
+    "0YMH-Q"
+  ],
+  "0EA3-8": [
+    "ENP-SH",
+    "WQZ8-4",
+    "UR-HG4",
+    "0YMH-Q"
+  ],
+  "WQZ8-4": [
+    "ENP-SH",
+    "0EA3-8"
+  ],
+  "Y-M7ML": [
+    "YCM-AI",
+    "Elysium"
+  ],
+  "L-TEVM": [
+    "02QH-A",
+    "U-3HAO",
+    "I3-2J0"
+  ],
+  "0YMH-Q": [
+    "02QH-A",
+    "QA-P7J",
+    "N-LY4R",
+    "0EA3-8"
+  ],
+  "IV-LWJ": [
+    "8-4EFQ",
+    "TL-FDN"
+  ],
+  "TL-FDN": [
+    "IV-LWJ",
+    "N-LY4R"
+  ],
+  "U-EUG7": [
+    "8-4EFQ"
+  ],
+  "E-95ID": [
+    "8-4EFQ",
+    "FD-7Y4"
+  ],
+  "FD-7Y4": [
+    "E-95ID",
+    "V2S-RH",
+    "R-CL2W"
+  ],
+  "Z-ONUI": [
+    "8-4EFQ",
+    "V2S-RH"
+  ],
+  "N5V-Y0": [
+    "QA-P7J"
+  ],
+  "0-YMZM": [
+    "UR-HG4"
+  ],
+  "N-LY4R": [
+    "0YMH-Q",
+    "TL-FDN"
+  ],
+  "1P-VL2": [
+    "LLAP-1",
+    "Mito"
+  ],
+  "X-VN63": [
+    "LLAP-1",
+    "03C-SU",
+    "MDM8-J",
+    "GORV-P",
+    "1G-8KY"
+  ],
+  "03C-SU": [
+    "X-VN63"
+  ],
+  "MDM8-J": [
+    "X-VN63",
+    "38G6-L",
+    "U8-CWA",
+    "U-7RBK"
+  ],
+  "GORV-P": [
+    "X-VN63"
+  ],
+  "1G-8KY": [
+    "X-VN63",
+    "29V-1R",
+    "ST-0EZ"
+  ],
+  "E3-NLE": [
+    "LLAP-1"
+  ],
+  "N32Z-Z": [
+    "52-JKU",
+    "ST-0EZ"
+  ],
+  "0HD-6C": [
+    "W-XBGF",
+    "Y8-HHZ",
+    "M-J57M",
+    "2-ZRM0"
+  ],
+  "V-4QJC": [
+    "730-KH",
+    "Elfrard"
+  ],
+  "730-KH": [
+    "V-4QJC",
+    "V-LQBF",
+    "Q-PVMK",
+    "AP-S8F",
+    "DYK-G8"
+  ],
+  "AP-S8F": [
+    "730-KH",
+    "HRJG-D"
+  ],
+  "DYK-G8": [
+    "730-KH"
+  ],
+  "U-3HAO": [
+    "L-TEVM",
+    "IYOO-M",
+    "BB8E-G"
+  ],
+  "BB8E-G": [
+    "U-3HAO",
+    "Q-PVMK"
+  ],
+  "K-DLD2": [
+    "V-LQBF",
+    "IYOO-M",
+    "T-W4L3",
+    "W-3Y6D"
+  ],
+  "T-W4L3": [
+    "K-DLD2",
+    "V-LQBF"
+  ],
+  "W-3Y6D": [
+    "K-DLD2",
+    "V-LQBF"
+  ],
+  "HRJG-D": [
+    "AP-S8F"
+  ],
+  "Elfrard": [
+    "V-4QJC",
+    "Tartatven",
+    "Eoldulf"
+  ],
+  "Hulf": [
+    "I3-2J0",
+    "Rollera"
+  ],
+  "KR-XF4": [
+    "I3-2J0",
+    "NK-AOZ"
+  ],
+  "UX3-N2": [
+    "Paradise",
+    "4BZ-R3",
+    "N-OGI1",
+    "XR9-LP",
+    "U-JTBT",
+    "Youledian",
+    "9HXQ-G"
+  ],
+  "Paradise": [
+    "UX3-N2",
+    "Elysium"
+  ],
+  "Sound": [
+    "Elysium",
+    "Heaven"
+  ],
+  "Hale": [
+    "Elysium"
+  ],
+  "EM-L3K": [
+    "Heaven",
+    "N-OGI1",
+    "JZV-O6"
+  ],
+  "4BZ-R3": [
+    "UX3-N2",
+    "NNLX-K",
+    "UD-ZJ3",
+    "ZQ2-CF",
+    "HS7W-T"
+  ],
+  "N-OGI1": [
+    "UX3-N2",
+    "MY-QQI",
+    "EM-L3K",
+    "XR9-LP",
+    "ZW-BY5"
+  ],
+  "XR9-LP": [
+    "UX3-N2",
+    "N-OGI1",
+    "QP6B-I"
+  ],
+  "U-JTBT": [
+    "UX3-N2",
+    "6JCS-4",
+    "BRP2-K"
+  ],
+  "Youledian": [
+    "UX3-N2",
+    "Nohshayess",
+    "Fekhoya",
+    "Seevadin",
+    "H-6HGD"
+  ],
+  "9HXQ-G": [
+    "UX3-N2",
+    "5VN-B7",
+    "A-JI5E",
+    "T-1WDH"
+  ],
+  "MY-QQI": [
+    "N-OGI1",
+    "Q-IPAA",
+    "K-ZKBM",
+    "RTCU-5",
+    "C73-U5",
+    "QP6B-I"
+  ],
+  "ZW-BY5": [
+    "N-OGI1",
+    "FDR-EQ"
+  ],
+  "JZV-O6": [
+    "EM-L3K"
+  ],
+  "FDR-EQ": [
+    "ZW-BY5",
+    "T-HHHT"
+  ],
+  "QP6B-I": [
+    "XR9-LP",
+    "MY-QQI",
+    "AU-S0B",
+    "CL-QB2"
+  ],
+  "5VN-B7": [
+    "9HXQ-G",
+    "41JS-R",
+    "H26A-B"
+  ],
+  "A-JI5E": [
+    "9HXQ-G",
+    "6JCS-4"
+  ],
+  "T-1WDH": [
+    "9HXQ-G",
+    "5J-SSP"
+  ],
+  "T-HHHT": [
+    "FDR-EQ",
+    "G2E-RJ",
+    "NNLX-K"
+  ],
+  "5J-SSP": [
+    "T-1WDH",
+    "AU-S0B",
+    "ZYR-NF"
+  ],
+  "6JCS-4": [
+    "A-JI5E",
+    "U-JTBT"
+  ],
+  "NNLX-K": [
+    "T-HHHT",
+    "4BZ-R3",
+    "AZBG-H",
+    "Q-6LG1"
+  ],
+  "AZBG-H": [
+    "NNLX-K",
+    "G2E-RJ"
+  ],
+  "Q-6LG1": [
+    "NNLX-K",
+    "5-88B9"
+  ],
+  "BRP2-K": [
+    "U-JTBT",
+    "MPJW-6"
+  ],
+  "MPJW-6": [
+    "BRP2-K",
+    "8BO-IH",
+    "XLL-Z7",
+    "W-4U1E"
+  ],
+  "29V-1R": [
+    "1G-8KY",
+    "Z-D6K5"
+  ],
+  "ST-0EZ": [
+    "1G-8KY",
+    "48R-PS",
+    "E-I1JW",
+    "N32Z-Z",
+    "UTZ-7B"
+  ],
+  "48R-PS": [
+    "ST-0EZ"
+  ],
+  "E-I1JW": [
+    "ST-0EZ"
+  ],
+  "UTZ-7B": [
+    "ST-0EZ",
+    "W9MQ-1"
+  ],
+  "W9MQ-1": [
+    "UTZ-7B",
+    "Y8HB-U",
+    "Y8-HHZ",
+    "JE7-F2",
+    "XHYS-O"
+  ],
+  "Y8HB-U": [
+    "W9MQ-1"
+  ],
+  "Y8-HHZ": [
+    "W9MQ-1",
+    "0HD-6C",
+    "0KTC-R"
+  ],
+  "JE7-F2": [
+    "W9MQ-1",
+    "304-QS",
+    "8-IL7S"
+  ],
+  "XHYS-O": [
+    "W9MQ-1",
+    "L-1T22",
+    "Q5KW-Z",
+    "XMNF-7"
+  ],
+  "L-1T22": [
+    "XHYS-O"
+  ],
+  "Q5KW-Z": [
+    "XHYS-O",
+    "0C-PZ4"
+  ],
+  "XMNF-7": [
+    "XHYS-O",
+    "N-U2LX"
+  ],
+  "0KTC-R": [
+    "Y8-HHZ"
+  ],
+  "N-U2LX": [
+    "XMNF-7",
+    "VW7-YN"
+  ],
+  "M-J57M": [
+    "0HD-6C",
+    "0C-PZ4",
+    "09-4XW",
+    "9P57-V",
+    "TJ10-O"
+  ],
+  "2-ZRM0": [
+    "0HD-6C",
+    "9P57-V"
+  ],
+  "Makiriemi": [
+    "Okunda",
+    "Koichi",
+    "Haurala",
+    "Okela",
+    "Minnen",
+    "Ieyama",
+    "Arekin",
+    "Sela"
+  ],
+  "Okunda": [
+    "Makiriemi",
+    "Kaala",
+    "Sela"
+  ],
+  "Kaala": [
+    "Okunda",
+    "Koichi",
+    "Arekin",
+    "Mito"
+  ],
+  "Karnola": [
+    "Koichi",
+    "Okela"
+  ],
+  "Haurala": [
+    "Makiriemi",
+    "Minnen",
+    "Kainokai",
+    "Otawasa"
+  ],
+  "Minnen": [
+    "Haurala",
+    "Makiriemi",
+    "Pietanen",
+    "Asalola",
+    "Aokinen"
+  ],
+  "Kainokai": [
+    "Haurala",
+    "Okela"
+  ],
+  "Otawasa": [
+    "Haurala",
+    "Kantanen",
+    "Isoma"
+  ],
+  "Isoma": [
+    "Okela",
+    "Otawasa",
+    "Jeon",
+    "Aideron",
+    "Okakuola"
+  ],
+  "Uusasai": [
+    "Okela",
+    "Kantanen",
+    "Suon",
+    "Tasen",
+    "Santenpaa"
+  ],
+  "Ieyama": [
+    "Makiriemi",
+    "Nagaslaiken",
+    "Kurala"
+  ],
+  "Pietanen": [
+    "Minnen",
+    "Malariya",
+    "Umamon"
+  ],
+  "Asalola": [
+    "Minnen",
+    "YS-GOP"
+  ],
+  "Aokinen": [
+    "Minnen",
+    "Enka",
+    "Inolari",
+    "Kurala",
+    "Ishaga"
+  ],
+  "Malariya": [
+    "Pietanen",
+    "Inolari"
+  ],
+  "Umamon": [
+    "Pietanen",
+    "Urpiken",
+    "YS-GOP"
+  ],
+  "YS-GOP": [
+    "Asalola",
+    "Umamon",
+    "38G6-L",
+    "LY-FY6",
+    "G8-D09"
+  ],
+  "Inolari": [
+    "Malariya",
+    "Amevync",
+    "Urpiken",
+    "Aokinen",
+    "Ishaga"
+  ],
+  "Urpiken": [
+    "Umamon",
+    "Tinnimerci",
+    "Inolari"
+  ],
+  "Emsek": [
+    "Sanair",
+    "Mazake",
+    "Jakemhih"
+  ],
+  "Sanair": [
+    "Emsek",
+    "Kashag",
+    "Mise",
+    "Arvachah",
+    "Sukanan",
+    "Somi"
+  ],
+  "Kashag": [
+    "Sanair",
+    "Yestadan",
+    "Kekah",
+    "Maddam",
+    "Jakemhih",
+    "Nakid"
+  ],
+  "Mise": [
+    "Sanair",
+    "Subhatoub"
+  ],
+  "Arvachah": [
+    "Sanair",
+    "Rifenda",
+    "Nasorin",
+    "Ajah",
+    "Norgoh",
+    "Damadil",
+    "Subhatoub",
+    "Anidaza"
+  ],
+  "Sukanan": [
+    "Sanair"
+  ],
+  "Somi": [
+    "Sanair",
+    "Mazake",
+    "Norgoh",
+    "Parud",
+    "Febihkin",
+    "Moghiz",
+    "Avib",
+    "Mimishia"
+  ],
+  "Mazake": [
+    "Somi",
+    "Emsek",
+    "Rifenda",
+    "Orus",
+    "Nashar"
+  ],
+  "Norgoh": [
+    "Somi",
+    "Arvachah",
+    "Throne Worlds",
+    "Sosarir",
+    "Moghiz",
+    "Megeh"
+  ],
+  "Parud": [
+    "Somi",
+    "Throne Worlds",
+    "Yekti",
+    "Chardu",
+    "Hoosa",
+    "Zemont"
+  ],
+  "Febihkin": [
+    "Somi",
+    "Throne Worlds",
+    "Kakol",
+    "Moghiz",
+    "Ahrnot",
+    "Gebem",
+    "Nimedaz"
+  ],
+  "Moghiz": [
+    "Somi",
+    "Throne Worlds",
+    "Norgoh",
+    "Josmaert",
+    "Febihkin"
+  ],
+  "Avib": [
+    "Somi",
+    "Kehina"
+  ],
+  "Mimishia": [
+    "Somi",
+    "Rifenda",
+    "Nasorin",
+    "Subhatoub",
+    "Damadil",
+    "Tsemshatel"
+  ],
+  "Subhatoub": [
+    "Mise",
+    "Arvachah",
+    "Mimishia",
+    "Peges"
+  ],
+  "Jakemhih": [
+    "Emsek",
+    "Kashag",
+    "04-H4M"
+  ],
+  "Rifenda": [
+    "Arvachah",
+    "Mimishia",
+    "Mazake",
+    "Nasorin"
+  ],
+  "Nasorin": [
+    "Arvachah",
+    "Mimishia",
+    "Rifenda",
+    "Ajah"
+  ],
+  "Ajah": [
+    "Arvachah",
+    "Nasorin"
+  ],
+  "Damadil": [
+    "Arvachah",
+    "Mimishia",
+    "Tsemshatel",
+    "Trigentia",
+    "Nohshayess"
+  ],
+  "Tsemshatel": [
+    "Mimishia",
+    "Damadil"
+  ],
+  "Trigentia": [
+    "Damadil",
+    "Ahrnot",
+    "Gebem"
+  ],
+  "Nohshayess": [
+    "Damadil",
+    "Finaka",
+    "Sib",
+    "Youledian"
+  ],
+  "Peges": [
+    "Subhatoub",
+    "I9B-8X"
+  ],
+  "I9B-8X": [
+    "Peges",
+    "G2E-RJ"
+  ],
+  "41JS-R": [
+    "5VN-B7",
+    "Y-2D6Q"
+  ],
+  "H26A-B": [
+    "5VN-B7"
+  ],
+  "Y-2D6Q": [
+    "41JS-R",
+    "U7L-MQ"
+  ],
+  "U7L-MQ": [
+    "Y-2D6Q",
+    "XJ-0RG",
+    "H-QXM7",
+    "KUSW-P"
+  ],
+  "XJ-0RG": [
+    "U7L-MQ",
+    "VH1-NS",
+    "SB3-IH"
+  ],
+  "H-QXM7": [
+    "U7L-MQ",
+    "T-L301",
+    "QO-17V"
+  ],
+  "KUSW-P": [
+    "U7L-MQ",
+    "8T-OLH",
+    "Q-2BI6"
+  ],
+  "VH1-NS": [
+    "XJ-0RG",
+    "Q4IG-S",
+    "V-H3V0"
+  ],
+  "SB3-IH": [
+    "XJ-0RG"
+  ],
+  "T-L301": [
+    "H-QXM7"
+  ],
+  "QO-17V": [
+    "H-QXM7",
+    "JG-ZLG"
+  ],
+  "JG-ZLG": [
+    "QO-17V"
+  ],
+  "Q4IG-S": [
+    "VH1-NS",
+    "W-ULNA",
+    "Z01V-Z"
+  ],
+  "V-H3V0": [
+    "VH1-NS"
+  ],
+  "W-ULNA": [
+    "Q4IG-S",
+    "XOV7-5",
+    "WF-OP4"
+  ],
+  "Z01V-Z": [
+    "Q4IG-S"
+  ],
+  "XOV7-5": [
+    "W-ULNA",
+    "OK-FEM",
+    "J8-G8K",
+    "N-39FI"
+  ],
+  "WF-OP4": [
+    "W-ULNA",
+    "R-IZDC"
+  ],
+  "R-IZDC": [
+    "WF-OP4"
+  ],
+  "38G6-L": [
+    "MDM8-J",
+    "G8-D09",
+    "YS-GOP",
+    "304Z-R",
+    "K-QUVW",
+    "XFLN-F"
+  ],
+  "U8-CWA": [
+    "MDM8-J",
+    "WMP-OF",
+    "LY-FY6"
+  ],
+  "U-7RBK": [
+    "MDM8-J",
+    "G8-D09"
+  ],
+  "WMP-OF": [
+    "U8-CWA",
+    "XFLN-F"
+  ],
+  "LY-FY6": [
+    "U8-CWA",
+    "YS-GOP"
+  ],
+  "G8-D09": [
+    "38G6-L",
+    "YS-GOP",
+    "U-7RBK"
+  ],
+  "304Z-R": [
+    "38G6-L",
+    "LN-L8L",
+    "S4GH-I"
+  ],
+  "K-QUVW": [
+    "38G6-L"
+  ],
+  "XFLN-F": [
+    "38G6-L",
+    "WMP-OF",
+    "VW7-YN",
+    "UWRZ-2"
+  ],
+  "LN-L8L": [
+    "304Z-R",
+    "UWRZ-2",
+    "0A-73B"
+  ],
+  "S4GH-I": [
+    "304Z-R",
+    "Serthoulde"
+  ],
+  "UWRZ-2": [
+    "LN-L8L",
+    "S-B1E4",
+    "XFLN-F",
+    "7X-X1Y",
+    "VNX-P0"
+  ],
+  "0A-73B": [
+    "LN-L8L",
+    "Prelle"
+  ],
+  "Serthoulde": [
+    "S4GH-I",
+    "Beyt",
+    "Amevync"
+  ],
+  "Prelle": [
+    "0A-73B",
+    "Yrton",
+    "Miennue"
+  ],
+  "Algintal": [
+    "Barvigrard",
+    "Eugidi",
+    "Disier",
+    "Agiesseson"
+  ],
+  "Barvigrard": [
+    "Algintal",
+    "Lorundio",
+    "Fribrodi",
+    "Aeman",
+    "Aldodan",
+    "Tiat",
+    "Ani",
+    "Sveipar"
+  ],
+  "Lorundio": [
+    "Barvigrard",
+    "Ankard",
+    "Jonar"
+  ],
+  "Fribrodi": [
+    "Barvigrard"
+  ],
+  "Aeman": [
+    "Barvigrard",
+    "Lolbrerie"
+  ],
+  "Tiat": [
+    "Barvigrard",
+    "Angils",
+    "Eugidi",
+    "Essin"
+  ],
+  "Ani": [
+    "Barvigrard"
+  ],
+  "Sveipar": [
+    "Barvigrard",
+    "Erada",
+    "Ankard",
+    "Evannater"
+  ],
+  "Angils": [
+    "Tiat",
+    "Aldodan",
+    "Huvilma"
+  ],
+  "Eugidi": [
+    "Tiat",
+    "Tandoiras",
+    "Algintal"
+  ],
+  "Essin": [
+    "Tiat",
+    "Hed"
+  ],
+  "Evannater": [
+    "Aldodan",
+    "Wiedadur",
+    "Sveipar",
+    "Akimamur",
+    "Benurad"
+  ],
+  "Jeon": [
+    "Aldodan",
+    "Isoma",
+    "Patrie",
+    "Vieres",
+    "Woenckee",
+    "Okakuola"
+  ],
+  "Tandoiras": [
+    "Eugidi",
+    "Spaen",
+    "Jayai",
+    "Vaarma"
+  ],
+  "Hed": [
+    "Essin",
+    "Ortner",
+    "Huvilma",
+    "Semou",
+    "Stion",
+    "Sasen"
+  ],
+  "Huvilma": [
+    "Angils",
+    "Ortner",
+    "Finena",
+    "Hed"
+  ],
+  "Q-IPAA": [
+    "MY-QQI",
+    "K-N3MD"
+  ],
+  "K-N3MD": [
+    "Q-IPAA",
+    "YENX-U",
+    "EL8Z-M"
+  ],
+  "K-ZKBM": [
+    "MY-QQI",
+    "4MY-AB"
+  ],
+  "4MY-AB": [
+    "K-ZKBM"
+  ],
+  "RTCU-5": [
+    "MY-QQI"
+  ],
+  "C73-U5": [
+    "MY-QQI",
+    "Y46-EN"
+  ],
+  "Y46-EN": [
+    "C73-U5"
+  ],
+  "YENX-U": [
+    "K-N3MD",
+    "IJE6-J"
+  ],
+  "CL-QB2": [
+    "EL8Z-M",
+    "QP6B-I",
+    "ZQ7-QS"
+  ],
+  "WTE-CK": [
+    "EL8Z-M"
+  ],
+  "BZZ-1U": [
+    "IJE6-J",
+    "F5-O9O",
+    "6I-3VX",
+    "W-3E44"
+  ],
+  "Throne Worlds": [
+    "Norgoh",
+    "Parud",
+    "Maddam",
+    "Gebem",
+    "Febihkin",
+    "Mulata",
+    "Mobit",
+    "Moghiz"
+  ],
+  "Maddam": [
+    "Throne Worlds",
+    "Kekah",
+    "Sosarir",
+    "Sasen",
+    "Kashag",
+    "Mofa",
+    "Maseend",
+    "Qeti"
+  ],
+  "Gebem": [
+    "Throne Worlds",
+    "Finaka",
+    "Amdimmah",
+    "Febihkin",
+    "Trigentia",
+    "Jatari",
+    "Nimedaz"
+  ],
+  "Mulata": [
+    "Throne Worlds",
+    "Mobit"
+  ],
+  "Mobit": [
+    "Throne Worlds",
+    "Megeh",
+    "Mulata",
+    "Armi",
+    "Jatari"
+  ],
+  "Megeh": [
+    "Mobit",
+    "Norgoh",
+    "Fua",
+    "Yekti",
+    "Hoosa",
+    "Kakol",
+    "Parrosa",
+    "Nazdirer"
+  ],
+  "Armi": [
+    "Mobit"
+  ],
+  "Jatari": [
+    "Mobit",
+    "Comadu",
+    "Meli",
+    "Gebem",
+    "Orus"
+  ],
+  "Yestadan": [
+    "Kashag",
+    "Kekah",
+    "Nakid",
+    "Kehina",
+    "Liela"
+  ],
+  "Kekah": [
+    "Yestadan",
+    "Maddam",
+    "Maseend",
+    "Kashag",
+    "Nakid"
+  ],
+  "Nakid": [
+    "Yestadan",
+    "Kekah",
+    "Kashag",
+    "Mofa"
+  ],
+  "Kehina": [
+    "Yestadan",
+    "Sosarir",
+    "Liela",
+    "Avib"
+  ],
+  "Liela": [
+    "Yestadan",
+    "Kehina"
+  ],
+  "Orus": [
+    "Mazake",
+    "Jatari",
+    "Nimedaz"
+  ],
+  "Nashar": [
+    "Mazake",
+    "Sosarir"
+  ],
+  "Maseend": [
+    "Kekah",
+    "Daredan",
+    "Maddam"
+  ],
+  "Zemont": [
+    "Sosarir",
+    "Vaarma",
+    "Parud"
+  ],
+  "Sosarir": [
+    "Zemont",
+    "Maddam",
+    "Kehina",
+    "Norgoh",
+    "Nashar"
+  ],
+  "Osta": [
+    "Fittakan",
+    "Ortner",
+    "Wiedadur"
+  ],
+  "Fittakan": [
+    "Osta",
+    "Erada",
+    "Tartatven",
+    "Almur",
+    "Besateoden"
+  ],
+  "Erada": [
+    "Fittakan",
+    "Odengsolf",
+    "Sveipar",
+    "Meinigefur"
+  ],
+  "Almur": [
+    "Fittakan"
+  ],
+  "Besateoden": [
+    "Fittakan",
+    "Eoldulf"
+  ],
+  "Eoldulf": [
+    "Besateoden",
+    "Rollera",
+    "Elfrard"
+  ],
+  "Rollera": [
+    "Eoldulf",
+    "F-ZNNG",
+    "Akimamur",
+    "Meinigefur",
+    "Hulf"
+  ],
+  "ZYL-FT": [
+    "N-K4Q0"
+  ],
+  "UBPU-9": [
+    "N-K4Q0",
+    "RJ-1R7",
+    "F-ZNNG"
+  ],
+  "8K-CHA": [
+    "N-K4Q0",
+    "NK-AOZ",
+    "V1G-63"
+  ],
+  "RJ-1R7": [
+    "UBPU-9"
+  ],
+  "NK-AOZ": [
+    "8K-CHA",
+    "KR-XF4",
+    "74IL-O"
+  ],
+  "74IL-O": [
+    "NK-AOZ"
+  ],
+  "Odengsolf": [
+    "Ortner",
+    "Meinigefur",
+    "Erada"
+  ],
+  "Gedur": [
+    "Ortner",
+    "Stadakorn",
+    "Meinigefur"
+  ],
+  "Finena": [
+    "Huvilma",
+    "Panoumid",
+    "Ravin"
+  ],
+  "Wiedadur": [
+    "Osta",
+    "Akimamur",
+    "Evannater"
+  ],
+  "Meinigefur": [
+    "Odengsolf",
+    "Erada",
+    "Gedur",
+    "Argeir",
+    "Rollera",
+    "Inkelm"
+  ],
+  "Akimamur": [
+    "Wiedadur",
+    "Benurad",
+    "Evannater",
+    "Urtfer",
+    "Inkelm",
+    "Rollera"
+  ],
+  "Semou": [
+    "Hed",
+    "Sasen",
+    "Kisana",
+    "Jayai"
+  ],
+  "Stion": [
+    "Hed",
+    "Spaen",
+    "Ysiette",
+    "Nexus"
+  ],
+  "Sasen": [
+    "Hed",
+    "Semou",
+    "Ryra",
+    "Kisana",
+    "Jayai",
+    "Maddam",
+    "Vaarma"
+  ],
+  "Ankard": [
+    "Sveipar",
+    "Lorundio",
+    "Frar",
+    "Aptetter",
+    "Ergruk"
+  ],
+  "Benurad": [
+    "Akimamur",
+    "Evannater"
+  ],
+  "Urtfer": [
+    "Akimamur"
+  ],
+  "AU-S0B": [
+    "5J-SSP",
+    "QP6B-I",
+    "E-IFSA"
+  ],
+  "ZYR-NF": [
+    "5J-SSP",
+    "QZJ-FL",
+    "1ANT-J",
+    "1A-WYQ",
+    "EK-NQ2",
+    "05M-I1",
+    "O6W-QE"
+  ],
+  "QZJ-FL": [
+    "ZYR-NF"
+  ],
+  "1ANT-J": [
+    "ZYR-NF",
+    "AV-SCL",
+    "3-U491",
+    "I-3ODK"
+  ],
+  "1A-WYQ": [
+    "ZYR-NF"
+  ],
+  "EK-NQ2": [
+    "ZYR-NF"
+  ],
+  "05M-I1": [
+    "ZYR-NF"
+  ],
+  "O6W-QE": [
+    "ZYR-NF"
+  ],
+  "Agiesseson": [
+    "Disier",
+    "Algintal",
+    "Lolbrerie",
+    "Nexus",
+    "Odilis",
+    "Caldari Border Zone",
+    "Chasnaye"
+  ],
+  "Disier": [
+    "Agiesseson",
+    "Crux",
+    "Coriault",
+    "Thoulde",
+    "Jonenor",
+    "Odilis",
+    "Vieres",
+    "Algintal"
+  ],
+  "Crux": [
+    "Disier",
+    "Jonenor",
+    "Caldari Border Zone",
+    "Osnins",
+    "Sanctum",
+    "Thoulde"
+  ],
+  "Coriault": [
+    "Disier",
+    "Ambrye",
+    "Ysiette",
+    "Odilis",
+    "Nexus",
+    "Sanctum"
+  ],
+  "Thoulde": [
+    "Disier",
+    "Caldari Border Zone",
+    "Crux",
+    "Patrie",
+    "Sanctum"
+  ],
+  "Jonenor": [
+    "Disier",
+    "Crux",
+    "Nadire"
+  ],
+  "Odilis": [
+    "Disier",
+    "Coriault",
+    "Agiesseson",
+    "Nexus",
+    "Chasnaye",
+    "Ysiette"
+  ],
+  "Vieres": [
+    "Disier",
+    "Patrie",
+    "Jeon",
+    "Eustron",
+    "Sanctum",
+    "Arand",
+    "Peccanouette"
+  ],
+  "Lolbrerie": [
+    "Gallente Border Zone",
+    "Agiesseson",
+    "Aeman"
+  ],
+  "Wyllequet": [
+    "Spaen",
+    "Ambrye",
+    "Ysiette"
+  ],
+  "Spaen": [
+    "Wyllequet",
+    "Ysiette",
+    "Stion",
+    "Tandoiras",
+    "Marele"
+  ],
+  "Ysiette": [
+    "Spaen",
+    "Coriault",
+    "Firille",
+    "Stion",
+    "Wyllequet",
+    "Chasnaye",
+    "Odilis",
+    "Giatole"
+  ],
+  "Marele": [
+    "Spaen",
+    "Nadire",
+    "Giatole"
+  ],
+  "Ambrye": [
+    "Coriault",
+    "Firille",
+    "Wyllequet",
+    "Nexus"
+  ],
+  "Nexus": [
+    "Coriault",
+    "Firille",
+    "Stion",
+    "Agiesseson",
+    "Ambrye",
+    "Odilis"
+  ],
+  "Sanctum": [
+    "Coriault",
+    "Elalan",
+    "Crux",
+    "Balrille",
+    "Vieres",
+    "Peccanouette",
+    "Thoulde",
+    "Eustron",
+    "Nazdirer",
+    "Anwyns",
+    "Ekrin",
+    "Aideron",
+    "Mih",
+    "Fabas"
+  ],
+  "Firille": [
+    "Ysiette",
+    "Nexus",
+    "Ambrye"
+  ],
+  "Nadire": [
+    "Jonenor",
+    "Marele",
+    "Balrille",
+    "Fua"
+  ],
+  "Caldari Border Zone": [
+    "Agiesseson",
+    "Crux",
+    "Thoulde",
+    "Patrie",
+    "Kantanen"
+  ],
+  "Chasnaye": [
+    "Agiesseson",
+    "Odilis",
+    "Giatole",
+    "Ysiette"
+  ],
+  "Balrille": [
+    "Nadire",
+    "Sanctum",
+    "Peccanouette",
+    "Arand"
+  ],
+  "Fua": [
+    "Nadire",
+    "Megeh",
+    "Hoosa",
+    "Pezarba"
+  ],
+  "Imurukka": [
+    "Arekin"
+  ],
+  "Nagaslaiken": [
+    "Arekin",
+    "Ieyama"
+  ],
+  "Santenpaa": [
+    "Arekin",
+    "Uusasai"
+  ],
+  "Kurala": [
+    "Ieyama",
+    "Aokinen",
+    "Okakuola"
+  ],
+  "Patrie": [
+    "Caldari Border Zone",
+    "Beyt",
+    "Thoulde",
+    "Woenckee",
+    "Jeon",
+    "Vieres",
+    "Aideron"
+  ],
+  "Kantanen": [
+    "Caldari Border Zone",
+    "Uusasai",
+    "Tasen",
+    "Otawasa"
+  ],
+  "Yekti": [
+    "Suon",
+    "Parud",
+    "Hoosa",
+    "Megeh"
+  ],
+  "Aideron": [
+    "Isoma",
+    "Patrie",
+    "Peccanouette",
+    "Eustron",
+    "Sanctum",
+    "Ancbeu"
+  ],
+  "Okakuola": [
+    "Isoma",
+    "Jeon",
+    "Kurala",
+    "Ishaga"
+  ],
+  "Z-D6K5": [
+    "29V-1R",
+    "VW7-YN"
+  ],
+  "VW7-YN": [
+    "Z-D6K5",
+    "UTQ-BO",
+    "XFLN-F",
+    "N-U2LX"
+  ],
+  "UTQ-BO": [
+    "VW7-YN",
+    "S-B1E4"
+  ],
+  "S-B1E4": [
+    "UTQ-BO",
+    "UWRZ-2",
+    "A21H-Z"
+  ],
+  "A21H-Z": [
+    "S-B1E4",
+    "RFY-QB"
+  ],
+  "RFY-QB": [
+    "A21H-Z",
+    "D-AWFI"
+  ],
+  "D-AWFI": [
+    "RFY-QB",
+    "LIB-F9"
+  ],
+  "LIB-F9": [
+    "D-AWFI",
+    "XPBM-F"
+  ],
+  "Jayai": [
+    "Semou",
+    "Sasen",
+    "Tandoiras",
+    "Enka"
+  ],
+  "Ryra": [
+    "Kisana",
+    "Daredan",
+    "Sasen",
+    "Abthi",
+    "XV7L-S"
+  ],
+  "Daredan": [
+    "Ryra",
+    "Kabo",
+    "Abthi",
+    "Ichida",
+    "Maseend"
+  ],
+  "Abthi": [
+    "Ryra",
+    "Kabo",
+    "Daredan"
+  ],
+  "XV7L-S": [
+    "Ryra",
+    "G2E-RJ",
+    "P6N8-J"
+  ],
+  "Enka": [
+    "Jayai",
+    "Aokinen"
+  ],
+  "Ichida": [
+    "Daredan",
+    "Vaarma"
+  ],
+  "Giatole": [
+    "Osnins",
+    "Chasnaye",
+    "Ysiette",
+    "Elalan",
+    "Marele"
+  ],
+  "Osnins": [
+    "Giatole",
+    "Crux",
+    "Elalan"
+  ],
+  "Elalan": [
+    "Osnins",
+    "Giatole",
+    "Sanctum",
+    "Fabas"
+  ],
+  "Fabas": [
+    "Elalan",
+    "Sanctum",
+    "Mih",
+    "Ubar",
+    "Reya"
+  ],
+  "Vaarma": [
+    "Sasen",
+    "Tandoiras",
+    "Zemont",
+    "Ichida",
+    "Ohvarainen"
+  ],
+  "Ohvarainen": [
+    "Vaarma"
+  ],
+  "8T-OLH": [
+    "KUSW-P",
+    "3-U491",
+    "JSZ-X6",
+    "R2-BT6"
+  ],
+  "Q-2BI6": [
+    "KUSW-P"
+  ],
+  "3-U491": [
+    "8T-OLH",
+    "1ANT-J",
+    "OFQ-HG"
+  ],
+  "JSZ-X6": [
+    "8T-OLH"
+  ],
+  "R2-BT6": [
+    "8T-OLH",
+    "3WN-1T",
+    "E-ILCH",
+    "7ZRW-G"
+  ],
+  "3WN-1T": [
+    "R2-BT6"
+  ],
+  "E-ILCH": [
+    "R2-BT6",
+    "9D1V-O",
+    "IZ-FBT",
+    "AJG-MV",
+    "17K-QM",
+    "O-PQU0"
+  ],
+  "7ZRW-G": [
+    "R2-BT6"
+  ],
+  "9D1V-O": [
+    "E-ILCH"
+  ],
+  "IZ-FBT": [
+    "E-ILCH",
+    "TCC-ZV",
+    "GEP-XF"
+  ],
+  "AJG-MV": [
+    "E-ILCH"
+  ],
+  "17K-QM": [
+    "E-ILCH",
+    "FY6-NK",
+    "TCC-ZV"
+  ],
+  "O-PQU0": [
+    "E-ILCH",
+    "3-PC31"
+  ],
+  "3-PC31": [
+    "O-PQU0",
+    "42-WDG"
+  ],
+  "FY6-NK": [
+    "17K-QM"
+  ],
+  "DS-M4Q": [
+    "Z-6NQ6",
+    "2-M6DE"
+  ],
+  "Z-6NQ6": [
+    "DS-M4Q",
+    "Viriette",
+    "2-M6DE",
+    "Beyt",
+    "49A-BZ",
+    "YFN-UN"
+  ],
+  "Viriette": [
+    "Z-6NQ6",
+    "Woenckee",
+    "Pegeler",
+    "Fislipesnes",
+    "Alselbosier",
+    "Josmaert"
+  ],
+  "2-M6DE": [
+    "Z-6NQ6",
+    "Ancbeu",
+    "DS-M4Q",
+    "TA-A7V",
+    "MK7-AO",
+    "Y4Y7-Q"
+  ],
+  "Beyt": [
+    "Z-6NQ6",
+    "Pegeler",
+    "Patrie",
+    "Serthoulde"
+  ],
+  "49A-BZ": [
+    "Z-6NQ6",
+    "GN-ACS",
+    "Yrton",
+    "Heart"
+  ],
+  "YFN-UN": [
+    "Z-6NQ6",
+    "Crown",
+    "Ganoure",
+    "59H-0G"
+  ],
+  "Ancbeu": [
+    "2-M6DE",
+    "Anwyns",
+    "Kiartanne",
+    "Aideron"
+  ],
+  "TA-A7V": [
+    "2-M6DE",
+    "Braille",
+    "Elose"
+  ],
+  "MK7-AO": [
+    "2-M6DE",
+    "JQV5-9",
+    "Maal"
+  ],
+  "Y4Y7-Q": [
+    "2-M6DE"
+  ],
+  "Braille": [
+    "TA-A7V",
+    "Goins",
+    "Elerelle",
+    "Mobrault"
+  ],
+  "Elose": [
+    "TA-A7V",
+    "Orvanne",
+    "Goins"
+  ],
+  "JQV5-9": [
+    "MK7-AO"
+  ],
+  "Maal": [
+    "MK7-AO",
+    "Leseasesh",
+    "Selonat"
+  ],
+  "Crown": [
+    "YFN-UN",
+    "QS-FVH",
+    "6-V49K",
+    "SKX-PL",
+    "Heart"
+  ],
+  "Ganoure": [
+    "YFN-UN",
+    "Alselbosier"
+  ],
+  "59H-0G": [
+    "YFN-UN",
+    "Elerelle"
+  ],
+  "GN-ACS": [
+    "49A-BZ"
+  ],
+  "Yrton": [
+    "49A-BZ",
+    "Scepter",
+    "Centaur",
+    "Prelle",
+    "Balenne"
+  ],
+  "Heart": [
+    "49A-BZ",
+    "Crown",
+    "Wield",
+    "Belt",
+    "Regalia"
+  ],
+  "Elerelle": [
+    "59H-0G",
+    "Braille",
+    "Anama"
+  ],
+  "QS-FVH": [
+    "Crown"
+  ],
+  "6-V49K": [
+    "Crown"
+  ],
+  "SKX-PL": [
+    "Crown",
+    "Ombil"
+  ],
+  "Ombil": [
+    "SKX-PL",
+    "Afinoo",
+    "Fabai"
+  ],
+  "Jonar": [
+    "Lorundio",
+    "Brazinget"
+  ],
+  "Frar": [
+    "Ankard"
+  ],
+  "Aptetter": [
+    "Ankard"
+  ],
+  "Ergruk": [
+    "Ankard",
+    "Inkelm"
+  ],
+  "Brazinget": [
+    "Jonar",
+    "Stadakorn",
+    "Panorad"
+  ],
+  "Argeir": [
+    "Meinigefur"
+  ],
+  "Panorad": [
+    "Brazinget"
+  ],
+  "Hoosa": [
+    "Fua",
+    "Parud",
+    "Yekti",
+    "Megeh"
+  ],
+  "Pezarba": [
+    "Fua",
+    "Kakol",
+    "Favo"
+  ],
+  "Chardu": [
+    "Parud",
+    "Qeti"
+  ],
+  "Qeti": [
+    "Chardu",
+    "Maddam"
+  ],
+  "Mofa": [
+    "Maddam",
+    "Nakid"
+  ],
+  "04-H4M": [
+    "Jakemhih",
+    "HS7W-T",
+    "UD-ZJ3"
+  ],
+  "Goins": [
+    "Braille",
+    "Elose"
+  ],
+  "Mobrault": [
+    "Braille"
+  ],
+  "Orvanne": [
+    "Elose"
+  ],
+  "Anama": [
+    "Elerelle",
+    "Aven",
+    "Afinoo"
+  ],
+  "0C-PZ4": [
+    "M-J57M",
+    "8-IL7S",
+    "C-ULS4",
+    "GP-GIU",
+    "E-312G",
+    "BZ-10K",
+    "Q5KW-Z"
+  ],
+  "09-4XW": [
+    "M-J57M",
+    "BZ-10K",
+    "O-EOI9"
+  ],
+  "9P57-V": [
+    "M-J57M",
+    "GFE-SS",
+    "2-ZRM0"
+  ],
+  "TJ10-O": [
+    "M-J57M",
+    "X-FHU3"
+  ],
+  "BZ-10K": [
+    "09-4XW",
+    "0C-PZ4",
+    "XPBM-F"
+  ],
+  "O-EOI9": [
+    "09-4XW",
+    "E-72A3",
+    "1D-65L"
+  ],
+  "GFE-SS": [
+    "9P57-V"
+  ],
+  "X-FHU3": [
+    "TJ10-O",
+    "E-72A3"
+  ],
+  "E-72A3": [
+    "X-FHU3",
+    "O-EOI9"
+  ],
+  "1D-65L": [
+    "O-EOI9",
+    "C-ULS4",
+    "T-RQ7S"
+  ],
+  "C-ULS4": [
+    "1D-65L",
+    "0C-PZ4"
+  ],
+  "T-RQ7S": [
+    "1D-65L",
+    "BI-NFW"
+  ],
+  "7X-X1Y": [
+    "UWRZ-2",
+    "Assilot"
+  ],
+  "VNX-P0": [
+    "UWRZ-2"
+  ],
+  "Assilot": [
+    "7X-X1Y",
+    "Tinnimerci",
+    "Miennue"
+  ],
+  "5-88B9": [
+    "G2E-RJ",
+    "UD-ZJ3",
+    "Q-6LG1"
+  ],
+  "UD-ZJ3": [
+    "4BZ-R3",
+    "5-88B9",
+    "04-H4M"
+  ],
+  "ZQ2-CF": [
+    "4BZ-R3"
+  ],
+  "HS7W-T": [
+    "4BZ-R3",
+    "H-KW4A",
+    "04-H4M"
+  ],
+  "P6N8-J": [
+    "XV7L-S"
+  ],
+  "H-KW4A": [
+    "HS7W-T"
+  ],
+  "Woenckee": [
+    "Viriette",
+    "Patrie",
+    "Jeon",
+    "Kiartanne",
+    "Obray"
+  ],
+  "Pegeler": [
+    "Viriette",
+    "Josmaert",
+    "Beyt",
+    "Amevync"
+  ],
+  "Fislipesnes": [
+    "Viriette",
+    "Anwyns",
+    "Alselbosier",
+    "Mallugier"
+  ],
+  "Alselbosier": [
+    "Viriette",
+    "Fislipesnes",
+    "Ganoure"
+  ],
+  "Josmaert": [
+    "Viriette",
+    "Unour",
+    "Pegeler",
+    "Moghiz"
+  ],
+  "Anwyns": [
+    "Fislipesnes",
+    "Mallugier",
+    "Sanctum",
+    "Ubar",
+    "Ancbeu",
+    "Obray"
+  ],
+  "Mallugier": [
+    "Fislipesnes",
+    "Anwyns"
+  ],
+  "Unour": [
+    "Josmaert"
+  ],
+  "Amevync": [
+    "Pegeler",
+    "Ishaga",
+    "Inolari",
+    "Serthoulde",
+    "Balenne"
+  ],
+  "Ishaga": [
+    "Amevync",
+    "Inolari",
+    "Aokinen",
+    "Okakuola"
+  ],
+  "Balenne": [
+    "Amevync",
+    "Yrton",
+    "Tinnimerci"
+  ],
+  "Finaka": [
+    "Nohshayess",
+    "Gebem"
+  ],
+  "Sib": [
+    "Nohshayess",
+    "LI-BA0"
+  ],
+  "Amdimmah": [
+    "Gebem",
+    "Arniri",
+    "Panoumid"
+  ],
+  "Arniri": [
+    "Amdimmah",
+    "Fekhoya"
+  ],
+  "Panoumid": [
+    "Amdimmah",
+    "Mareerieh",
+    "Tendrara",
+    "Finena"
+  ],
+  "Fekhoya": [
+    "Youledian",
+    "Arniri"
+  ],
+  "Seevadin": [
+    "Youledian",
+    "Akar"
+  ],
+  "H-6HGD": [
+    "Youledian",
+    "PUB-0R"
+  ],
+  "LI-BA0": [
+    "Sib",
+    "YB7B-8",
+    "F-RA63"
+  ],
+  "Akar": [
+    "Seevadin",
+    "Homroon",
+    "Budar",
+    "Ravin"
+  ],
+  "Homroon": [
+    "Akar",
+    "Alpakian"
+  ],
+  "Budar": [
+    "Akar"
+  ],
+  "Ravin": [
+    "Akar",
+    "Finena"
+  ],
+  "Alpakian": [
+    "Homroon",
+    "Fabai"
+  ],
+  "Fabai": [
+    "Alpakian",
+    "Ombil",
+    "Leseasesh",
+    "YX-LYK"
+  ],
+  "PUB-0R": [
+    "H-6HGD",
+    "9NP-KR",
+    "K-JO26",
+    "A-Z7C9",
+    "YB7B-8",
+    "8BO-IH"
+  ],
+  "9NP-KR": [
+    "PUB-0R"
+  ],
+  "K-JO26": [
+    "PUB-0R"
+  ],
+  "A-Z7C9": [
+    "PUB-0R",
+    "XPJ1-6"
+  ],
+  "YB7B-8": [
+    "PUB-0R",
+    "LI-BA0"
+  ],
+  "8BO-IH": [
+    "PUB-0R",
+    "F-RA63",
+    "8ET-D1",
+    "MPJW-6"
+  ],
+  "XPJ1-6": [
+    "A-Z7C9",
+    "3B-IWE",
+    "YX-LYK",
+    "B4H-9W",
+    "6-UCYU"
+  ],
+  "F-RA63": [
+    "8BO-IH",
+    "LI-BA0"
+  ],
+  "8ET-D1": [
+    "8BO-IH"
+  ],
+  "XLL-Z7": [
+    "MPJW-6"
+  ],
+  "W-4U1E": [
+    "MPJW-6",
+    "6-UCYU"
+  ],
+  "3B-IWE": [
+    "XPJ1-6",
+    "4QZ-2M",
+    "Selonat"
+  ],
+  "4QZ-2M": [
+    "3B-IWE",
+    "OK-FEM",
+    "O-EIMK"
+  ],
+  "Selonat": [
+    "3B-IWE",
+    "Maal",
+    "Taurus"
+  ],
+  "OK-FEM": [
+    "4QZ-2M",
+    "LSC-4P",
+    "6KFH-X",
+    "XOV7-5"
+  ],
+  "O-EIMK": [
+    "4QZ-2M",
+    "SPNZ-Z"
+  ],
+  "Scepter": [
+    "Yrton",
+    "Regalia"
+  ],
+  "Centaur": [
+    "Yrton",
+    "Pegasus"
+  ],
+  "Tinnimerci": [
+    "Balenne",
+    "Urpiken",
+    "Assilot"
+  ],
+  "Miennue": [
+    "Prelle",
+    "Assilot"
+  ],
+  "Kakol": [
+    "Megeh",
+    "Febihkin",
+    "Pezarba",
+    "Araz"
+  ],
+  "Parrosa": [
+    "Megeh",
+    "Heti",
+    "Nazdirer"
+  ],
+  "Nazdirer": [
+    "Megeh",
+    "Parrosa",
+    "Sanctum",
+    "Ashela"
+  ],
+  "Araz": [
+    "Kakol",
+    "Mih"
+  ],
+  "Ahrnot": [
+    "Febihkin",
+    "Trigentia",
+    "Naloran",
+    "Qermi"
+  ],
+  "Nimedaz": [
+    "Febihkin",
+    "Gebem",
+    "Comadu",
+    "Orus"
+  ],
+  "Mih": [
+    "Heti",
+    "Araz",
+    "Sanctum",
+    "Ashela",
+    "Fabas"
+  ],
+  "Heti": [
+    "Mih",
+    "Parrosa"
+  ],
+  "Reya": [
+    "Favo",
+    "Ashela",
+    "Ekrin",
+    "Fabas",
+    "Charak",
+    "Monalaz"
+  ],
+  "Favo": [
+    "Reya",
+    "Meli",
+    "Pezarba"
+  ],
+  "Meli": [
+    "Favo",
+    "Jatari",
+    "Comadu",
+    "Monalaz",
+    "Makh"
+  ],
+  "Naloran": [
+    "Ahrnot"
+  ],
+  "Qermi": [
+    "Ahrnot"
+  ],
+  "Aven": [
+    "Anama",
+    "Ubar",
+    "Makh",
+    "Kihkounad"
+  ],
+  "Afinoo": [
+    "Anama",
+    "Ombil",
+    "Mareerieh",
+    "Tid",
+    "Mayonhen"
+  ],
+  "Mareerieh": [
+    "Afinoo",
+    "Panoumid"
+  ],
+  "Tid": [
+    "Afinoo",
+    "Leseasesh",
+    "Helab"
+  ],
+  "Mayonhen": [
+    "Afinoo"
+  ],
+  "Leseasesh": [
+    "Tid",
+    "Fabai",
+    "Maal"
+  ],
+  "Helab": [
+    "Tid"
+  ],
+  "YX-LYK": [
+    "Fabai",
+    "XPJ1-6",
+    "B4H-9W"
+  ],
+  "Taurus": [
+    "Selonat",
+    "Wyvern"
+  ],
+  "304-QS": [
+    "JE7-F2"
+  ],
+  "8-IL7S": [
+    "JE7-F2",
+    "0C-PZ4",
+    "E-312G"
+  ],
+  "E-312G": [
+    "8-IL7S",
+    "0C-PZ4",
+    "KWCZ-A"
+  ],
+  "GP-GIU": [
+    "0C-PZ4",
+    "BI-NFW"
+  ],
+  "BI-NFW": [
+    "GP-GIU",
+    "T-RQ7S"
+  ],
+  "KWCZ-A": [
+    "E-312G"
+  ],
+  "XPBM-F": [
+    "BZ-10K",
+    "LIB-F9"
+  ],
+  "AV-SCL": [
+    "1ANT-J"
+  ],
+  "I-3ODK": [
+    "1ANT-J",
+    "C45-9Y",
+    "L-H07K",
+    "O5QG-M",
+    "JQA8-6"
+  ],
+  "C45-9Y": [
+    "I-3ODK",
+    "RHG-4O",
+    "G3IP-E"
+  ],
+  "L-H07K": [
+    "I-3ODK",
+    "YZKE-Q"
+  ],
+  "O5QG-M": [
+    "I-3ODK",
+    "Y-LRWI"
+  ],
+  "JQA8-6": [
+    "I-3ODK"
+  ],
+  "RHG-4O": [
+    "C45-9Y"
+  ],
+  "G3IP-E": [
+    "C45-9Y",
+    "ZQ7-QS",
+    "50-5UD"
+  ],
+  "YZKE-Q": [
+    "L-H07K"
+  ],
+  "OFQ-HG": [
+    "3-U491",
+    "42-WDG"
+  ],
+  "42-WDG": [
+    "OFQ-HG",
+    "3-PC31",
+    "RL36-K"
+  ],
+  "RL36-K": [
+    "42-WDG",
+    "W-3E44",
+    "8MJO-4"
+  ],
+  "Wield": [
+    "Heart",
+    "Sword"
+  ],
+  "Belt": [
+    "Heart",
+    "Velvet"
+  ],
+  "Regalia": [
+    "Heart",
+    "Scepter"
+  ],
+  "Velvet": [
+    "Belt",
+    "Sole"
+  ],
+  "Sword": [
+    "Wield",
+    "Pegasus"
+  ],
+  "Pegasus": [
+    "Sword",
+    "Centaur",
+    "Manticore",
+    "Wyvern",
+    "Sphinx"
+  ],
+  "Sole": [
+    "Velvet"
+  ],
+  "Manticore": [
+    "Pegasus",
+    "Kraken"
+  ],
+  "Wyvern": [
+    "Pegasus",
+    "Taurus"
+  ],
+  "Sphinx": [
+    "Pegasus",
+    "Satyr",
+    "Unicorn"
+  ],
+  "Kraken": [
+    "Manticore",
+    "Minotaur",
+    "Phoenix"
+  ],
+  "Satyr": [
+    "Sphinx",
+    "Hydra"
+  ],
+  "Unicorn": [
+    "Sphinx",
+    "Chimera"
+  ],
+  "Chimera": [
+    "Unicorn"
+  ],
+  "Hydra": [
+    "Satyr",
+    "Phoenix",
+    "Mermaid",
+    "Basilisk"
+  ],
+  "Minotaur": [
+    "Kraken"
+  ],
+  "Phoenix": [
+    "Kraken",
+    "Griffin",
+    "Hydra",
+    "Skaven"
+  ],
+  "Griffin": [
+    "Phoenix"
+  ],
+  "Skaven": [
+    "Phoenix"
+  ],
+  "Mermaid": [
+    "Hydra"
+  ],
+  "Basilisk": [
+    "Hydra",
+    "NJU-QV"
+  ],
+  "NJU-QV": [
+    "Basilisk",
+    "SPNZ-Z"
+  ],
+  "TCC-ZV": [
+    "17K-QM",
+    "I-CCEI",
+    "IZ-FBT"
+  ],
+  "I-CCEI": [
+    "TCC-ZV",
+    "D9DM-O"
+  ],
+  "D9DM-O": [
+    "I-CCEI"
+  ],
+  "GEP-XF": [
+    "IZ-FBT",
+    "N-39FI"
+  ],
+  "N-39FI": [
+    "GEP-XF",
+    "XOV7-5",
+    "NOK-FZ",
+    "6KFH-X"
+  ],
+  "B4H-9W": [
+    "XPJ1-6",
+    "SPNZ-Z",
+    "O5K-Y6",
+    "YX-LYK"
+  ],
+  "6-UCYU": [
+    "XPJ1-6",
+    "W-4U1E",
+    "LSC-4P"
+  ],
+  "SPNZ-Z": [
+    "B4H-9W",
+    "O-EIMK",
+    "NJU-QV"
+  ],
+  "O5K-Y6": [
+    "B4H-9W",
+    "D5-SOW"
+  ],
+  "LSC-4P": [
+    "6-UCYU",
+    "F-I56R",
+    "OK-FEM"
+  ],
+  "D5-SOW": [
+    "O5K-Y6",
+    "SG-CTQ",
+    "1-A81R"
+  ],
+  "SG-CTQ": [
+    "D5-SOW"
+  ],
+  "1-A81R": [
+    "D5-SOW"
+  ],
+  "F-I56R": [
+    "LSC-4P"
+  ],
+  "6KFH-X": [
+    "OK-FEM",
+    "N-39FI"
+  ],
+  "E-IFSA": [
+    "AU-S0B"
+  ],
+  "ZQ7-QS": [
+    "CL-QB2",
+    "G3IP-E"
+  ],
+  "50-5UD": [
+    "G3IP-E",
+    "F5-O9O"
+  ],
+  "F5-O9O": [
+    "50-5UD",
+    "EIX-HK",
+    "BZZ-1U"
+  ],
+  "EIX-HK": [
+    "F5-O9O"
+  ],
+  "6I-3VX": [
+    "BZZ-1U"
+  ],
+  "Y-LRWI": [
+    "O5QG-M",
+    "5Z0Y-S",
+    "8MJO-4"
+  ],
+  "5Z0Y-S": [
+    "Y-LRWI"
+  ],
+  "8MJO-4": [
+    "Y-LRWI",
+    "U7-GIV",
+    "RL36-K"
+  ],
+  "U7-GIV": [
+    "8MJO-4"
+  ],
+  "J8-G8K": [
+    "XOV7-5"
+  ],
+  "NOK-FZ": [
+    "N-39FI",
+    "OY3-DM"
+  ],
+  "OY3-DM": [
+    "NOK-FZ"
+  ],
+  "Peccanouette": [
+    "Balrille",
+    "Vieres",
+    "Sanctum",
+    "Aideron",
+    "Obray"
+  ],
+  "Arand": [
+    "Balrille",
+    "Vieres"
+  ],
+  "Eustron": [
+    "Vieres",
+    "Sanctum",
+    "Aideron"
+  ],
+  "Obray": [
+    "Peccanouette",
+    "Woenckee",
+    "Anwyns",
+    "Kiartanne"
+  ],
+  "Comadu": [
+    "Jatari",
+    "Nimedaz",
+    "Meli",
+    "Tendrara"
+  ],
+  "Tendrara": [
+    "Panoumid",
+    "Comadu"
+  ],
+  "Ashela": [
+    "Nazdirer",
+    "Mih",
+    "Reya",
+    "Ekrin"
+  ],
+  "Ekrin": [
+    "Sanctum",
+    "Ashela",
+    "Reya"
+  ],
+  "Ubar": [
+    "Anwyns",
+    "Fabas",
+    "Aven"
+  ],
+  "Monalaz": [
+    "Meli",
+    "Reya",
+    "EVE"
+  ],
+  "Makh": [
+    "Meli",
+    "Charak",
+    "Kihkounad",
+    "Aven"
+  ],
+  "Charak": [
+    "Reya",
+    "Makh"
+  ],
+  "Kihkounad": [
+    "Makh",
+    "Aven"
+  ],
+  "EVE": [
+    "Monalaz"
+  ],
+  "Kiartanne": [
+    "Woenckee",
+    "Obray",
+    "Ancbeu"
+  ]
+}

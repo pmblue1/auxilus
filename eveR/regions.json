@@ -1,0 +1,382 @@
+{
+  "Devoid": [
+    "Derelik",
+    "Heimatar",
+    "The Bleak Lands",
+    "Providence",
+    "Domain",
+    "Black Rise"
+  ],
+  "Derelik": [
+    "Devoid",
+    "Heimatar",
+    "Curse",
+    "Providence",
+    "Molden Heath",
+    "Great Wildlands"
+  ],
+  "Heimatar": [
+    "Derelik",
+    "Metropolis",
+    "Molden Heath",
+    "Kor-Azor",
+    "Devoid",
+    "Sinq Laison",
+    "The Bleak Lands"
+  ],
+  "Curse": [
+    "Derelik",
+    "Scalding Pass",
+    "Great Wildlands",
+    "Catch"
+  ],
+  "Providence": [
+    "Derelik",
+    "Catch",
+    "Tash-Murkon",
+    "Devoid",
+    "Domain"
+  ],
+  "Molden Heath": [
+    "Derelik",
+    "Great Wildlands",
+    "Heimatar",
+    "Metropolis"
+  ],
+  "Great Wildlands": [
+    "Derelik",
+    "Cache",
+    "Scalding Pass",
+    "Curse",
+    "Molden Heath",
+    "Metropolis",
+    "Geminate"
+  ],
+  "The Citadel": [
+    "The Forge",
+    "Lonetrek",
+    "Sinq Laison",
+    "Black Rise",
+    "Essence",
+    "Domain",
+    "Verge Vendor"
+  ],
+  "The Forge": [
+    "The Citadel",
+    "Metropolis",
+    "Lonetrek",
+    "Sinq Laison",
+    "Geminate",
+    "Tash-Murkon",
+    "Vale of the Silent"
+  ],
+  "Metropolis": [
+    "The Forge",
+    "Great Wildlands",
+    "Sinq Laison",
+    "Heimatar",
+    "Essence",
+    "The Bleak Lands",
+    "Molden Heath",
+    "Geminate"
+  ],
+  "Lonetrek": [
+    "The Forge",
+    "Tribute",
+    "The Citadel",
+    "Black Rise",
+    "Pure Blind"
+  ],
+  "Sinq Laison": [
+    "The Forge",
+    "Metropolis",
+    "Heimatar",
+    "Essence",
+    "Everyshore",
+    "The Bleak Lands",
+    "Genesis",
+    "The Citadel",
+    "Domain"
+  ],
+  "Geminate": [
+    "The Forge",
+    "Vale of the Silent",
+    "Great Wildlands",
+    "Metropolis"
+  ],
+  "Tash-Murkon": [
+    "The Forge",
+    "Domain",
+    "Kador",
+    "Khanid",
+    "Providence"
+  ],
+  "Vale of the Silent": [
+    "The Forge",
+    "Geminate",
+    "Tribute"
+  ],
+  "Tribute": [
+    "Vale of the Silent",
+    "Lonetrek",
+    "Pure Blind",
+    "Venal"
+  ],
+  "Wicked Creek": [
+    "Detorid",
+    "Insmother",
+    "Scalding Pass"
+  ],
+  "Detorid": [
+    "Wicked Creek",
+    "Insmother",
+    "Tenerifis",
+    "Immensea"
+  ],
+  "Insmother": [
+    "Detorid",
+    "Wicked Creek",
+    "Cache",
+    "Scalding Pass"
+  ],
+  "Tenerifis": [
+    "Detorid",
+    "Catch",
+    "Immensea",
+    "Impass",
+    "Feythabolis",
+    "Omist"
+  ],
+  "Immensea": [
+    "Detorid",
+    "Catch",
+    "Tenerifis"
+  ],
+  "Scalding Pass": [
+    "Wicked Creek",
+    "Curse",
+    "Great Wildlands",
+    "Insmother"
+  ],
+  "Cache": [
+    "Insmother",
+    "Great Wildlands"
+  ],
+  "Pure Blind": [
+    "Tribute",
+    "Lonetrek",
+    "Fade",
+    "Placid",
+    "Cloud Ring"
+  ],
+  "Venal": [
+    "Tribute",
+    "Deklein",
+    "Branch",
+    "Tenal"
+  ],
+  "Catch": [
+    "Curse",
+    "Providence",
+    "Khanid",
+    "Immensea",
+    "Tenerifis",
+    "Stain",
+    "Impass",
+    "Querious"
+  ],
+  "Khanid": [
+    "Catch",
+    "Tash-Murkon",
+    "Kor-Azor",
+    "Querious",
+    "Aridia"
+  ],
+  "Stain": [
+    "Catch",
+    "Esoteria",
+    "Period Basis"
+  ],
+  "Impass": [
+    "Catch",
+    "Tenerifis",
+    "Feythabolis"
+  ],
+  "Querious": [
+    "Catch",
+    "Khanid",
+    "Delve",
+    "Aridia"
+  ],
+  "Deklein": [
+    "Venal",
+    "Fade",
+    "Branch"
+  ],
+  "Branch": [
+    "Venal",
+    "Deklein",
+    "Tenal"
+  ],
+  "Tenal": [
+    "Venal",
+    "Branch"
+  ],
+  "Black Rise": [
+    "Lonetrek",
+    "The Citadel",
+    "Devoid",
+    "Placid",
+    "Cloud Ring",
+    "Essence"
+  ],
+  "Domain": [
+    "Tash-Murkon",
+    "Kor-Azor",
+    "Kador",
+    "Sinq Laison",
+    "The Citadel",
+    "Devoid",
+    "The Bleak Lands",
+    "Providence"
+  ],
+  "Kador": [
+    "Tash-Murkon",
+    "Domain",
+    "Placid",
+    "Genesis",
+    "Kor-Azor"
+  ],
+  "Esoteria": [
+    "Stain",
+    "Feythabolis",
+    "Paragon Soul"
+  ],
+  "Period Basis": [
+    "Stain",
+    "Paragon Soul",
+    "Delve"
+  ],
+  "Fade": [
+    "Pure Blind",
+    "Deklein",
+    "Cloud Ring"
+  ],
+  "Placid": [
+    "Pure Blind",
+    "Syndicate",
+    "Verge Vendor",
+    "Kador",
+    "Essence",
+    "Black Rise",
+    "Cloud Ring"
+  ],
+  "Cloud Ring": [
+    "Pure Blind",
+    "Syndicate",
+    "Fade",
+    "Placid",
+    "Outer Ring",
+    "Fountain",
+    "Black Rise"
+  ],
+  "Essence": [
+    "Metropolis",
+    "Sinq Laison",
+    "The Citadel",
+    "Everyshore",
+    "Placid",
+    "Genesis",
+    "Verge Vendor",
+    "Black Rise"
+  ],
+  "The Bleak Lands": [
+    "Metropolis",
+    "Heimatar",
+    "Sinq Laison",
+    "Devoid",
+    "Domain"
+  ],
+  "Kor-Azor": [
+    "Domain",
+    "Heimatar",
+    "Khanid",
+    "Kador",
+    "Aridia",
+    "Genesis"
+  ],
+  "Feythabolis": [
+    "Impass",
+    "Esoteria",
+    "Omist",
+    "Tenerifis"
+  ],
+  "Everyshore": [
+    "Sinq Laison",
+    "Essence",
+    "Genesis"
+  ],
+  "Genesis": [
+    "Sinq Laison",
+    "Everyshore",
+    "Kador",
+    "Aridia",
+    "Essence",
+    "Kor-Azor",
+    "Verge Vendor"
+  ],
+  "Verge Vendor": [
+    "The Citadel",
+    "Syndicate",
+    "Placid",
+    "Essence",
+    "Genesis"
+  ],
+  "Paragon Soul": [
+    "Esoteria",
+    "Period Basis"
+  ],
+  "Syndicate": [
+    "Placid",
+    "Verge Vendor",
+    "Solitude",
+    "Aridia",
+    "Outer Ring",
+    "Cloud Ring"
+  ],
+  "Solitude": [
+    "Syndicate",
+    "Aridia"
+  ],
+  "Aridia": [
+    "Syndicate",
+    "Solitude",
+    "Khanid",
+    "Querious",
+    "Genesis",
+    "Kor-Azor",
+    "Delve",
+    "Fountain"
+  ],
+  "Outer Ring": [
+    "Syndicate",
+    "Cloud Ring",
+    "Fountain"
+  ],
+  "Delve": [
+    "Querious",
+    "Aridia",
+    "Fountain",
+    "Period Basis"
+  ],
+  "Fountain": [
+    "Cloud Ring",
+    "Aridia",
+    "Outer Ring",
+    "Delve"
+  ],
+  "Omist": [
+    "Feythabolis",
+    "Tenerifis"
+  ]
+}
