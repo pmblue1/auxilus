@@ -20,11 +20,11 @@ This returns a list with all of the rows in the table. By default, they are retu
 
 **select(*select*,*orderDict=None*,*op_and=True*,*limit=None*,*case_insensitive=False*,*dict_mode=True*,*table=None*)**
 The `select` variable is a dictionary of filters for the query, or a string with an. The keys are the column names, and the values would be the filter/thing you are looking for in that column. You can put values into a list, to check if the column is equal to any of them. There are a few classes that you can put values in to set certain options:
-*between(value1,value2)* - Checks if column is between or equal to those numbers.
-*like(value)* - Checks value based on formatted string you provide. See https://www.tutorialspoint.com/sql/sql-like-clause.htm to see formatting and examples.
-*is_not(value)* - Its just a not operator. You can put normal values, lists, between, like, and other such values in here. Ex: `{"id": is_not(between(1,5)),"column_name": is_not(contains("hello"))}`
-*contains(value)* - Check if a columns's value contains the provided value.
-*case_insensitive(value)* - Make search case insensitive. Much like is_not, various other valid objects can be placed in here, to make their search case insensitive. If case_insensitive argument is set to True, then this class is irrelevant. Ex: `{"id": case_insensitive(is_not(between(1,5)))}`
+- *between(value1,value2)* - Checks if column is between or equal to those numbers.
+- *like(value)* - Checks value based on formatted string you provide. See https://www.tutorialspoint.com/sql/sql-like-clause.htm to see formatting and examples.
+- *is_not(value)* - Its just a not operator. You can put normal values, lists, between, like, and other such values in here. Ex: `{"id": is_not(between(1,5)),"column_name": is_not(contains("hello"))}`
+- *contains(value)* - Check if a columns's value contains the provided value.
+- *case_insensitive(value)* - Make search case insensitive. Much like is_not, various other valid objects can be placed in here, to make their search case insensitive. If case_insensitive argument is set to True, then this class is irrelevant. Ex: `{"id": case_insensitive(is_not(between(1,5)))}`
 
  `op_and` makes it so that it adds `AND` for the operator. This means that a row must meet ALL of the criteria within the query. If this is turned off, it uses the `OR` operator instead, meaning that the rows only need to meet ONE of the criteria. `limit` can be set to an integer, to limit the amount of results. `orderDict` can be a dictionary, which would determine how the results are ordered. The keys would be set to column names, and the values would be either 1 or 0. 1 is for descending and 0 is for ascending order. If case_insensitive is True, then all searches will be case insensitive. 
 
