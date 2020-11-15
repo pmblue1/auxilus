@@ -11,6 +11,7 @@ I am frankly inexperienced in SQL, and prefer OOP where possible. To make it eas
 # __**sqliteObj Documentation**__
 ## sqliteObj(*filename*,table=None)
 Initializes and connects to the database that is specified in *filename*. The *table* argument is the same as using the *set_table()* method. All of the below items are methods of this object.
+
   **total_changes**
   Simple attribute, showing the total amount of changes to rows via this db object, using update, insert, delete methods.
 
@@ -73,5 +74,11 @@ Deletes all of the rows selected using the params provided in the *delete* dicti
 
 ***
 ### Custom Selections
+
+Note that the attributes in the following functions are used in the same exact way as their counterparts above. The only difference, is that the results of their queries are then run through your key function, to determine if they should be returned to you or not. If you have dict mode enabled, then the input to your key will be a dictionary representation of the row. If not, then it will be a list. Your given key function must return a boolean value. A True value will result in it being a part of the returned list of rows, and a False will exclude it. These methods are going to be a bit slower obviously, though by how much depends mostly on the speed of they key function provided. The methods are intended to allow you to provide more custom filters when making selections, by letting you decide what to select with Python.
+
 **select_all_custom(*key*,*dict_mode=True*,*table=None*,*limit=None*)**
-This returns a list with all of the rows in the table. By default, they are returned as dictionaries, with the keys being the names of the columns. But if you set `dict_mode` to False, they will return as tuples. Table would be a string with the name of the table you want to query, but when initializing the special sqlite object I made, you can set a default table there anyway, so that if it is set to None it just uses that default. Limit attribute would be an integer to limit results to a certain amount of rows.
+Run all rows in the database, or a limited number of them if *limit* is set, through your key to determine what is returned.
+
+**select_custom(*key*,*select*,*orderDict=None*,*op_and=True*,*limit=None*,*case_insensitive=False*,*dict_mode=True*,*table=None*)**
+This will allow you to be more selective about what rows you run through your key, than the *select_all_custom* method does. You can select what rows you want in same way as the normal *select* method. This lets you narrow the selection down with the created sql query, and then only run those selected rows through your key.
